@@ -1,0 +1,12 @@
+Login
+
+Purpose: If the user wants to get access to all the functionalities of Online Book
+Store he should login using his username and password.
+
+Actor: User
+
+Input: The user will enter his username and password.
+
+Output: If it is a successful login the user will be directed to the main home page.
+Else if the user enters invalid information he will be asked to check the entered
+information.
