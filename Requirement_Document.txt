@@ -1,2 +1,4 @@
 Login
 Signup
+Add Books
+Remove Books
